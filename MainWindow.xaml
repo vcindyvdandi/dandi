@@ -1,0 +1,8 @@
+﻿<NavigationWindow x:Class="Microsoft.Samples.Kinect.BodyBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DandiFitness" 
+        Height="900" Width="1800"
+        Source="LoginPage.xaml" 
+     > 
+</NavigationWindow>
